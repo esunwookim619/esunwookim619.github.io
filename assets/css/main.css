@@ -2451,3 +2451,8 @@ input, select, textarea {
 	.projectimg {
 		height: 200px;
 	}
+
+	.row-force-class {
+		display: flex;
+		justify-content: space-around;
+	}
